@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divya-gupta12
-- 🤓 I'm a fast learner, a friend or mentor is welcomed 
+- 🤓 I'm a avid learner, a friend or mentor.
 - 👀 I’m interested in learning new things through practice and doing projects
-- 🌱 I’m a beginner in C,C++,Python,HTML
+- 🌱 I’m a beginner in web dev, ML .
 - 💞️ I’m looking to collaborate on PROJECTS where i can contribute and learn something new.
 - 📫 How to reach me dm/📧dg6219@srmist.edu.in
 
