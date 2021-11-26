@@ -7,15 +7,15 @@
 
 MINI Projects:
 1. Web Project
+
 [Module 2 assg](https://divya-gupta12.github.io/WEB-DEV-ASSG/coursera_mod2/)
 
 [Module 3 assg](https://divya-gupta12.github.io/WEB-DEV-ASSG/coursera_mod3/)
 
-[Module 4 assg](https://divya-gupta12.github.io/WEB-DEV-ASSG/coursera_mod4/)
-
 [Module 5 assg](https://divya-gupta12.github.io/WEB-DEV-ASSG/coursera_mod5/)
 
-3. Ml Project
+2. Ml Project
+
 [Data Exploration on Netflix dataset](https://github.com/divya-gupta12/ML/blob/main/de454.ipynb)
 
 [Linear Regression on Netflix dataset](https://github.com/divya-gupta12/Linear-regression/blob/main/LR454_assg2.ipynb)
